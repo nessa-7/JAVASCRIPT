@@ -1,0 +1,68 @@
+body{
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+h1{
+  color: rgb(112, 43, 177);
+  text-align: center;
+}
+
+.ingresardatos{
+  margin: auto;
+  background-color: rgba(224, 201, 231, 0.788);
+  text-align: center;
+  height: 300px;
+  width: 500px;
+  border-radius: 20px;
+}
+
+#btnAgregar{
+  margin: 30px;
+  background-color: rgb(255, 186, 245);
+  border-color: rgb(226, 43, 144);
+  border-radius: 20px;
+  border: dotted 1px;
+  padding: 10px;
+  margin-right: 10px;
+}
+
+#btnConsultar{
+  background-color: rgb(190, 255, 184);
+  border-color: rgb(43, 226, 43);
+  border-radius: 20px;
+  border: dotted 1px;
+  padding: 10px;
+  margin-right: 10px;
+}
+
+#btnActualizar{
+  background-color: rgb(255, 186, 186);
+  border-color: rgb(226, 43, 43);
+  border-radius: 20px;
+  border: dotted 1px;
+  padding: 10px;
+  margin-right: 10px;
+}
+
+#btnEliminar{
+  background-color: rgb(197, 232, 248);
+  border-color: rgb(43, 226, 226);
+  border-radius: 20px;
+  border: dotted 1px;
+  padding: 10px;
+  margin-right: 10px;
+}
+
+h2{
+  text-align: center;
+  font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif; 
+  color: rgba(25, 3, 37, 0.767);
+}
+
+table{
+  
+  margin: auto;
+  text-align: center;
+  border: 1px solid rgb(110, 36, 153);
+  border-collapse: collapse;
+    }
